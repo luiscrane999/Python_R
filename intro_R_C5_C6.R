@@ -193,22 +193,5 @@ plot(edades,salario_model)
 
 edades <-seq(0,100,5)
 edades
-edades <-seq(0,100,5)
-edadesedades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edadesedades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edadesedades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edades
-edades <-seq(0,100,5)
-edadesedades <-seq(0,100,5)
-edades
+
 
